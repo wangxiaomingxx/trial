@@ -1,9 +1,10 @@
 #include<stdio.h>
 
-void func(){
-}
+void superfunc();
+
 
 void main(){
-	printf("Hello my friend!\n");
+	superfunc();
+    //wait();
 }
 

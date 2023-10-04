@@ -1,9 +1,6 @@
 #include<stdio.h>
 
 void superfunc(){
-}
-
-void main(){
-	printf("Hello.\n");
+  printf( "Hello my f.\n");
 }
 
