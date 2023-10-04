@@ -4,6 +4,6 @@ void func(){
 }
 
 void main(){
-	printf("Hello my friend!"\n);
+	printf("Hello my friend!\n");
 }
 
